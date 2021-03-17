@@ -1,0 +1,4 @@
+- Hi, I’m @10kOhm
+- I’m currently learning cpp | linux
+- 25yo
+- Currently working in Automotive industry.
